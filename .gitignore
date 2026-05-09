@@ -1,0 +1,28 @@
+# 单个文件
+# config.py
+忽略1.txt
+新建 文本文档.txt
+
+# # 整个文件夹
+# DCIM/
+
+# 某类文件
+# *.log
+# *.tmp
+# *.pyc
+
+# 视频
+*.mp4
+*.avi
+*.mov
+video/
+DCIM/
+
+# 配置
+# config.py
+# settings.json
+
+# 临时文件
+# *.log
+# *.pyc
+# tmp/
